@@ -1,5 +1,5 @@
 # ImageProcessing
-- 영상처리 모자이크 프로젝트
+- OpenCV를 이용한 영상처리 모자이크 프로젝트
 
 # 실행방법
 1. dbs0250.zip, dbs0509.zip 파일을 image 폴더에서 압축을 푼다
